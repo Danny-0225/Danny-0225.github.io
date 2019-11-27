@@ -45,6 +45,7 @@ header nav ul li a:hover {
     display: flex;
     flex-wrap: wrap;
     margin: 0 -15px;
+    justify-content: center;
 }
 #products .cards .item {
     margin:15px;
